@@ -21,4 +21,4 @@ There are currently three preferences, at the top of the `carousel.js` file:
 |navBackground|`true`|If set to `false`, carousel nav buttons `background-color` will be `transparent`.| 
 |navInside|`true`|Determines position of carousel nav buttons. `true` sets them to overlap the images, `false` sets them just outside the images.|
 
-I'd like this to be super-easy for people to use. It's definitely not best-coding practice, but is fine for small sites where the extra load time is negligible. Send me feature requests and I'll add them. 
+I'd like this to be super-easy for people to use. It's not best-coding practice, but is fine for small sites where the extra load time is negligible. Send me feature requests and I'll add them. 
